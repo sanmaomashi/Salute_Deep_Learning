@@ -29,11 +29,12 @@
 
 ## 在线阅读
 
-- https://sanmaomashi.github.io/Salute_Deep_Learning/
+- [GitHub Pages](https://sanmaomashi.github.io/Salute_Deep_Learning/)
+- ~~Gitee~~
 
 
 
 ## License
 
-Licensed under the [Apache-2.0](http://choosealicense.com/licenses/apache/) © Salute_Deep_Learning
+Licensed under the [Apache-2.0](http://choosealicense.com/licenses/apache/) © Salute_Deep_Learning by [sanmaomashi](https://github.com/sanmaomashi)
 

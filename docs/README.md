@@ -10,7 +10,7 @@
 
 ## Awesome
 
-- 
+- [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
 
 
 
